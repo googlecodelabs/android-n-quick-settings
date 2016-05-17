@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'android-N'
+    buildToolsVersion "24.0.0 rc3"
+
+    defaultConfig {
+        applicationId "com.google.android_quick_settings"
+        minSdkVersion 'N'
+        targetSdkVersion 'N'
+        versionCode 1
+        versionName "1.0"
+    }
+
+    productFlavors {
+        start {
+            applicationId "com.google.android_quick_settings.start"
+            versionName "1.0-start"
+        }
+
+        completed {
+            applicationId "com.google.android_quick_settings.completed"
+            versionName "1.0-completed"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    sourceSets {
+        start {
+            java.srcDirs = ['src/main/java', 'src/start/java', 'src/start/java/']
+        }
+        completed {
+            java.srcDirs = ['src/main/java', 'src/completed/java', 'src/completed/java/']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.0.0-alpha2'
+}

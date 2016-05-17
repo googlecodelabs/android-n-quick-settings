@@ -1,0 +1,77 @@
+<!--
+ Copyright 2016 Google Inc.
+ 
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+      http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-alpha2_cae93c9a6ab21cdae4e1d4ce50f310db2e3fe303/classes.dex" />
+    </item>
+    <item
+        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/incremental-classes/completed/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="dff6425dde94c675d7608f69942be82e4687cc4a">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/instant-run-bootstrap_4213e8f9f0f006552132c78ea9b074dd453ae588/classes.dex" />
+    </item>
+    <item
+        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-support-v4-24.0.0-alpha2_58f8c8edec02c781751c149ec0c6c2e8e4f0ab62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/incremental-runtime-classes/completed/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="5e32c59c04c1e9f13390e62dfc3685f53c03efaa">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/instant-run_7a135e35d260858b7fe65832526d15ac42fd3cdf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/internal_impl-24.0.0-alpha2_9805b471ae24db8cee470f36b41fe14704606e30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-alpha2_34a9113dfae0e868cf21a20002d996ab5b8e11c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/erschmid/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha2/support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/support-annotations-24.0.0-alpha2_74a312b5dbb5092fca55334a9c0c525678de47f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-alpha2_c5977f7fdc7a7baafd13b9fb356be18ad7c39132/classes.dex" />
+    </item>
+
+</items>
