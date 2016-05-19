@@ -42,9 +42,8 @@ public class QuickSettingsService
      */
 
     @Override
-    public int onTileAdded() {
+    public void onTileAdded() {
         Log.d("QS", "Tile added");
-        return TileService.TILE_MODE_ACTIVE;
     }
 
     /**
