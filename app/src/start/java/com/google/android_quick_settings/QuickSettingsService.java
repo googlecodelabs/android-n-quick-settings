@@ -31,9 +31,8 @@ public class QuickSettingsService
      * @return TileService constant indicating tile state
      */
     @Override
-    public int onTileAdded() {
+    public void onTileAdded() {
         Log.d("QS", "Tile added");
-        return TileService.TILE_MODE_ACTIVE;
     }
 
     /**
