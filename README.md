@@ -2,6 +2,9 @@
 
 This folder contains the source code for a [Google I/O 2016 codelab on Android N Quick Settings](https://codelabs.developers.google.com/codelabs/android-n-quick-settings/#0).
 
+##Demo
+![enter image description here](https://github.com/AndroidDeveloperLB/android-n-quick-settings/blob/master/extras/demo.gif?raw=true)
+
 ### License
 
 ```
