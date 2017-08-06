@@ -4,7 +4,7 @@ This folder contains the source code for a [Google I/O 2016 codelab on Android N
 
 ## Demo
 
-![enter image description here](https://github.com/AndroidDeveloperLB/android-n-quick-settings/blob/master/extras/demo.gif?raw=true)
+![Demo of Quick Settings tile in tutorial](https://github.com/AndroidDeveloperLB/android-n-quick-settings/blob/master/extras/demo.gif?raw=true)
 
 ### License
 
