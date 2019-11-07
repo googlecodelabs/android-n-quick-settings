@@ -1,12 +1,19 @@
-# Android N Quick Settings Codelab
+# This code is DEPRECATED
+
+The associated codelab and this code have been deprecated.
+
+# This code is DEPRECATED
+
+
+## Android N Quick Settings Codelab
 
 This folder contains the source code for a [Google I/O 2016 codelab on Android N Quick Settings](https://codelabs.developers.google.com/codelabs/android-n-quick-settings/#0).
 
-## Demo
+### Demo
 
 ![Demo of Quick Settings tile in tutorial](https://github.com/googlecodelabs/android-n-quick-settings/blob/master/extras/demo.gif?raw=true)
 
-### License
+#### License
 
 ```
 Copyright 2016 Google, Inc.
